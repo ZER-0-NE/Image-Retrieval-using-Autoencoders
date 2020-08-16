@@ -83,7 +83,7 @@ data
   </tr>
  </table>
 
-The unsuccessfull attempt can be attributed to the fact that more training time is required for properly training the hyperparameters and in the limited time frame this was model was developed.
+The unsuccessfull attempt can be attributed to the fact that more training time is required for properly tuning the hyperparameters and in the limited time frame this was model was developed.
 
 ## Meta
 
